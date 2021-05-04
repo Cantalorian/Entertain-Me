@@ -377,7 +377,8 @@ var createElements = function () {
         "box-shadow": "3px 3px 3px 3px black",
         "border-radius": "15px",
         width: '300px',
-        height: '150px'
+        height: '150px',
+        padding: '10px'
     });
 };
 
